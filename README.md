@@ -2,4 +2,6 @@
 
 This is a repository for my Reversation System in Python
 
-Documentation of project is available at file Reservation_System_Python_Documentation
+This Python project composes Classes for data encapsulation and Functions to provide proper functioning of designed Reservation System. Project uses also Lists as data structures to store created objects.
+
+Detailed documentation of project is available at PDF version of file named "Reservation_System_Python_Documentation".
